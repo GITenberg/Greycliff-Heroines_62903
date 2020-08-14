@@ -1,0 +1,29 @@
+_repo: Greycliff-Heroines_62903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grove, Harriet Pyne
+    gutenberg_agent_id: '37167'
+    url: http://www.gutenberg.org/2009/agents/37167
+description: ''
+gutenberg_issued: '2020-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62903'
+  lccn: '23010693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Girls -- Social life and customs -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Betrothal -- Juvenile fiction'
+- GITenberg
+title: Greycliff Heroines
+url: http://www.gutenberg.org/ebooks/62903
